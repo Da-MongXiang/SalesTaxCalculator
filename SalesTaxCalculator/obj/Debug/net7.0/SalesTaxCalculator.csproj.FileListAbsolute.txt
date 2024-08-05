@@ -1,0 +1,15 @@
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.csproj.AssemblyReference.cache
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.AssemblyInfoInputs.cache
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.AssemblyInfo.cs
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.csproj.CoreCompileInputs.cache
+D:\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net7.0\SalesTaxCalculator.exe
+D:\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net7.0\SalesTaxCalculator.deps.json
+D:\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net7.0\SalesTaxCalculator.runtimeconfig.json
+D:\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net7.0\SalesTaxCalculator.dll
+D:\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net7.0\SalesTaxCalculator.pdb
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.dll
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\refint\SalesTaxCalculator.dll
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.pdb
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\SalesTaxCalculator.genruntimeconfig.cache
+D:\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net7.0\ref\SalesTaxCalculator.dll
